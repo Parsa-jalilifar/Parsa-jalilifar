@@ -1,4 +1,4 @@
-### Hi there, I'm Parsa - Software Developer in Training
+### Hi there, I'm Parsa - Software Developer
 
 - 🌱 I’m currently learning everything. :joy:
 - 👯 I’m looking to collaborate with other programmers.
